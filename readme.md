@@ -5,7 +5,7 @@
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 7+ years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 7+ years of experience in developing enterprise applications (ERP Industries) and full stack projects.
 
 - Development Languages:
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
